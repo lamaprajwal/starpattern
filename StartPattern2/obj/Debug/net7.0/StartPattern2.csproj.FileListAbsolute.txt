@@ -1,0 +1,14 @@
+D:\pratice\starpattern\StartPattern2\bin\Debug\net7.0\StartPattern2.exe
+D:\pratice\starpattern\StartPattern2\bin\Debug\net7.0\StartPattern2.deps.json
+D:\pratice\starpattern\StartPattern2\bin\Debug\net7.0\StartPattern2.runtimeconfig.json
+D:\pratice\starpattern\StartPattern2\bin\Debug\net7.0\StartPattern2.dll
+D:\pratice\starpattern\StartPattern2\bin\Debug\net7.0\StartPattern2.pdb
+D:\pratice\starpattern\StartPattern2\obj\Debug\net7.0\StartPattern2.GeneratedMSBuildEditorConfig.editorconfig
+D:\pratice\starpattern\StartPattern2\obj\Debug\net7.0\StartPattern2.AssemblyInfoInputs.cache
+D:\pratice\starpattern\StartPattern2\obj\Debug\net7.0\StartPattern2.AssemblyInfo.cs
+D:\pratice\starpattern\StartPattern2\obj\Debug\net7.0\StartPattern2.csproj.CoreCompileInputs.cache
+D:\pratice\starpattern\StartPattern2\obj\Debug\net7.0\StartPattern2.dll
+D:\pratice\starpattern\StartPattern2\obj\Debug\net7.0\refint\StartPattern2.dll
+D:\pratice\starpattern\StartPattern2\obj\Debug\net7.0\StartPattern2.pdb
+D:\pratice\starpattern\StartPattern2\obj\Debug\net7.0\StartPattern2.genruntimeconfig.cache
+D:\pratice\starpattern\StartPattern2\obj\Debug\net7.0\ref\StartPattern2.dll

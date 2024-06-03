@@ -1,0 +1,14 @@
+D:\pratice\starpattern\starpattern4\bin\Debug\net7.0\starpattern4.exe
+D:\pratice\starpattern\starpattern4\bin\Debug\net7.0\starpattern4.deps.json
+D:\pratice\starpattern\starpattern4\bin\Debug\net7.0\starpattern4.runtimeconfig.json
+D:\pratice\starpattern\starpattern4\bin\Debug\net7.0\starpattern4.dll
+D:\pratice\starpattern\starpattern4\bin\Debug\net7.0\starpattern4.pdb
+D:\pratice\starpattern\starpattern4\obj\Debug\net7.0\starpattern4.GeneratedMSBuildEditorConfig.editorconfig
+D:\pratice\starpattern\starpattern4\obj\Debug\net7.0\starpattern4.AssemblyInfoInputs.cache
+D:\pratice\starpattern\starpattern4\obj\Debug\net7.0\starpattern4.AssemblyInfo.cs
+D:\pratice\starpattern\starpattern4\obj\Debug\net7.0\starpattern4.csproj.CoreCompileInputs.cache
+D:\pratice\starpattern\starpattern4\obj\Debug\net7.0\starpattern4.dll
+D:\pratice\starpattern\starpattern4\obj\Debug\net7.0\refint\starpattern4.dll
+D:\pratice\starpattern\starpattern4\obj\Debug\net7.0\starpattern4.pdb
+D:\pratice\starpattern\starpattern4\obj\Debug\net7.0\starpattern4.genruntimeconfig.cache
+D:\pratice\starpattern\starpattern4\obj\Debug\net7.0\ref\starpattern4.dll

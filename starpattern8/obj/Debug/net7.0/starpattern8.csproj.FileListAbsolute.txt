@@ -1,0 +1,14 @@
+D:\pratice\starpattern\starpattern8\bin\Debug\net7.0\starpattern8.exe
+D:\pratice\starpattern\starpattern8\bin\Debug\net7.0\starpattern8.deps.json
+D:\pratice\starpattern\starpattern8\bin\Debug\net7.0\starpattern8.runtimeconfig.json
+D:\pratice\starpattern\starpattern8\bin\Debug\net7.0\starpattern8.dll
+D:\pratice\starpattern\starpattern8\bin\Debug\net7.0\starpattern8.pdb
+D:\pratice\starpattern\starpattern8\obj\Debug\net7.0\starpattern8.GeneratedMSBuildEditorConfig.editorconfig
+D:\pratice\starpattern\starpattern8\obj\Debug\net7.0\starpattern8.AssemblyInfoInputs.cache
+D:\pratice\starpattern\starpattern8\obj\Debug\net7.0\starpattern8.AssemblyInfo.cs
+D:\pratice\starpattern\starpattern8\obj\Debug\net7.0\starpattern8.csproj.CoreCompileInputs.cache
+D:\pratice\starpattern\starpattern8\obj\Debug\net7.0\starpattern8.dll
+D:\pratice\starpattern\starpattern8\obj\Debug\net7.0\refint\starpattern8.dll
+D:\pratice\starpattern\starpattern8\obj\Debug\net7.0\starpattern8.pdb
+D:\pratice\starpattern\starpattern8\obj\Debug\net7.0\starpattern8.genruntimeconfig.cache
+D:\pratice\starpattern\starpattern8\obj\Debug\net7.0\ref\starpattern8.dll
